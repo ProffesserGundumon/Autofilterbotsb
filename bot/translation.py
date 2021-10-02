@@ -30,5 +30,5 @@ Maintained by @SB_World_01 ..
 
 <b>➥ Library</b> : <i><a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0 </a></i>
 
-<b>➥ Source Code</b> : <i><a href="https://t.me/SB_World_01">🔐</a></i>
+<b>➥ Source Code</b> : 🔐
 """
