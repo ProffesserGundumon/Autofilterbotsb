@@ -48,9 +48,9 @@ async def start(bot, update):
 
     buttons = [[
         InlineKeyboardButton('⚜️ My Developer ⚜️', url='https://t.me/SB_World_01'),
-        InlineKeyboardButton('🔖 Channel 🔖', url ='https://t.me/SBcinemakal')
+        InlineKeyboardButton('📺 Our Channel 📺', url ='https://t.me/SBcinemakal')
     ],[
-        InlineKeyboardButton('🎥 Group 🎥', url='https://t.me/SBCinemalokam')
+        InlineKeyboardButton('🎪 Our Group 🎪', url='https://t.me/SBCinemalokam')
     ],[
         InlineKeyboardButton('Help ⚙', callback_data="help")
     ]]
